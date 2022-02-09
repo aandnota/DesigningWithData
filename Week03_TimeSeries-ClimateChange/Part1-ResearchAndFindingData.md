@@ -27,7 +27,7 @@ Google Docs/Drive can be great but I find the login/file-hunting process to be w
 ***  
 
 ### CONTEXTUAL READINGS  
-Finding a single reading to introduce a topic as wide-randing as climate change is impossible. Instead, I've tried to pick a few short pieces that can help give some context to a topic we all know something about:
+Finding a single reading to introduce a topic as wide-ranging as climate change is impossible. Instead, I've tried to pick a few short pieces that can help give some context to a topic we all know something about:
 
 * [*Climate Change Evidence: How Do We Know?*](https://climate.nasa.gov/evidence) from NASA – a great introduction to the evidence for, and impacts from, climate change  
 * [*A Brief History of Climate Change*](https://www.bbc.com/news/science-environment-15874560) from the BBC – traces the some of the early research that pointed towards human influence on climate and the mid- to late-20th-century controversy  
